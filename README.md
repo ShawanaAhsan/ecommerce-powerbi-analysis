@@ -121,23 +121,24 @@ DAX measures were created for:
 
 ### Executive Dashboard
 
-![Executive Dashboard](<img width="1920" height="1080" alt="executive" src="https://github.com/user-attachments/assets/f2c08361-8938-4e64-ad74-d90b88cbe431" />
-)
+<img width="1920" height="1080" alt="executive" src="https://github.com/user-attachments/assets/fcc129c0-5c9e-428b-a040-668428f23050" />
+
+
 
 ### Sales Analysis
 
-![Sales Analysis](<img width="1920" height="1080" alt="sales analysis" src="https://github.com/user-attachments/assets/d34fb227-75cd-4752-a6cb-d558f274ea4f" />
-)
+<img width="1920" height="1080" alt="sales analysis" src="https://github.com/user-attachments/assets/217005de-ac5e-4bce-9260-e402d0952e1a" />
+
 
 ### Customer Analysis
 
-![Customer Analysis](<img width="1920" height="1080" alt="customer analysis" src="https://github.com/user-attachments/assets/f90f1043-2629-4ee4-8494-d7ace498781a" />
-)
+<img width="1920" height="1080" alt="customer analysis" src="https://github.com/user-attachments/assets/f90f1043-2629-4ee4-8494-d7ace498781a" />
+
 
 ### Delivery Performance
 
-![Delivery Performance](<img width="1920" height="1080" alt="delivery performance" src="https://github.com/user-attachments/assets/81d62a05-8a26-4ae1-bf78-97e5e1a724be" />
-)
+<img width="1920" height="1080" alt="delivery performance" src="https://github.com/user-attachments/assets/81d62a05-8a26-4ae1-bf78-97e5e1a724be" />
+
 
 ## 💡 Skills Demonstrated
 
